@@ -52,9 +52,8 @@
       <p>Our doors are open to serve you at Tare's Clinic and Maternity Hospital. Visit us during our scheduled hours to receive expert medical care.
       </p>
       <ul class="time-sidual">
-       <li class="day">Monday - Wednesday <span>6.00 Am - 10.00 PM</span></li>
-       <li class="day">Thursday - Friday <span>9.00-15.00</span></li>
-       <li class="day">Saturday <span>9.00-18.30</span></li>
+       <li class="day">Monday - Friday <span>24/7</span></li>
+       <li class="day">Saturday - Sunday <span>24/7</span></li>
       </ul>
      </div>
     </div>

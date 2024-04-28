@@ -116,9 +116,8 @@ require_once('head.php'); ?>
          <span>Active 24/7</span>
          <h4>Opening Hours</h4>
          <ul class="time-sidual">
-          <li class="day">Monday - Fridayp <span>8.00-20.00</span></li>
-          <li class="day">Saturday <span>9.00-18.30</span></li>
-          <li class="day">Monday - Thusday <span>9.00-15.00</span></li>
+          <li class="day">Monday - Friday <span>24/7</span></li>
+          <li class="day">Saturday - Sunday <span>24/7</span></li>
          </ul>
          <a href="schedules">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
         </div>
